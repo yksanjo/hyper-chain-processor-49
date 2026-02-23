@@ -1,5 +1,12 @@
 # hyper-chain-processor-49
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/hyper-chain-processor-49/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/hyper-chain-processor-49/actions)
+![License](https://img.shields.io/github/license/yksanjo/hyper-chain-processor-49)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/hyper-chain-processor-49)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/hyper-chain-processor-49)
+
 ## Detailed Description
 
 hyper-chain-processor-49 is maintained as an industry-grade software project with production-ready engineering practices.  
